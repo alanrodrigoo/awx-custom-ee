@@ -1,0 +1,15 @@
+---
+collections:
+- awx.awx
+- infra.controller_configuration
+- chocolatey.chocolatey
+- community.general
+- community.windows
+- azure.azcollection
+- amazon.aws
+- google.cloud
+- community.vmware
+- kubernetes.core
+- ansible.posix
+- ansible.windows
+- redhat_cop.tower_configuration
